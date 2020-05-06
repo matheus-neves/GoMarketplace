@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24254209/81233905-136a7400-8fce-11ea-9fc0-2d41d0e62595.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/24254209/81233905-136a7400-8fce-11ea-9fc0-2d41d0e62595.gif" width="250">
 </p>
 
 ## :rocket: About the Challenge
