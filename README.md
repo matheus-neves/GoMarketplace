@@ -11,31 +11,35 @@
 </p>
 
 
-<img style="margin: 0 auto;" src="https://user-images.githubusercontent.com/24254209/81233905-136a7400-8fce-11ea-9fc0-2d41d0e62595.gif" width="200">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24254209/81233905-136a7400-8fce-11ea-9fc0-2d41d0e62595.gif" width="150">
+</p>
 
 ## :rocket: About the Challenge
 
-The application consumes the data available through the [challenge 06](https://github.com/matheus-neves/challenge-database-upload) backend, displays the transactions created and allows the import of a CSV file to generate new records in the database.
+This challenge is about GoMarketplace, a virtual store, which consumes a fake api, where it is possible to add / remove products to the shopping cart, making a total calculation of the products.
 
 ### Technologies
 
-- [ReactJS](https://reactjs.com/)
+- [React Native](https://reactnative.dev/)
+- [Context API](https://reactjs.org/docs/context.html)
 - [Axios](https://github.com/axios/axios)
 - [StyledComponents](https://styled-components.com/)
 - [Typescript](https://www.typescriptlang.org/)
+- [JSON Server](https://github.com/typicode/json-server)
 
 ## Installation
 
-1. Clone the repository: `git@github.com:matheus-neves/GoFinances.git`
-2. Access the directory: `cd GoFinances`
+1. Clone the repository: `git@github.com:matheus-neves/GoMarketplace.git`
+2. Access the directory: `cd GoMarketplace`
 3. Install the dependencies: `yarn`
-4. Run the app: `yarn start`
+4. Run the fake api: `yarn json-server server.json -p 3333`
+5. Run the app: `yarn ios | yarn android`
 
-❗️For this application to work it is necessary that the server is running according to the instructions in this [link](https://github.com/matheus-neves/challenge-database-upload#installation).
 
 ## :memo: License
 
 This challenge is under license from MIT. See the archive [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/LICENSE) for more details.
 
 ---
-Challenge completed ✔️by Matheus Neves and created with 💜by Rocketseat 👋 [Join the community!](https://discordapp.com/invite/gCRAFhc)
+Challenge completed ✔️by Matheus Neves and created with 💜by Rocketseat 👋 [See my linkedin!](https://www.linkedin.com/in/matheus-neves-front-end/)
